@@ -11,12 +11,12 @@ const Hero = () => {
   return (
     <>
       <div className="Container w-[100%] h-[80vh] flex items-start md:items-center flex-col md:flex-row justify-center mb-5">
-        <div className="left inline-block p-4 md:ml-6 mt-10 md:mt-0">
+        <div className="left inline-block p-5 md:ml-6 mt-10 md:mt-0">
           <h1 className='text-4xl font-bold'>Find the book <br />
             your're looking for <br />
             easier to read.
           </h1>
-          <p className='py-3'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, debitis!</p>
+          <p className='py-3'>If you only read the books that everyone else is reading, you can only think what everyone else is thinking.” — Haruki Murakami</p>
           <div className="flex justify-start ">
             <div className="">
               <div className="flex">
